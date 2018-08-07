@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="mavenDemo:jar">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="mavenDemo.jar">
+      <element id="module-output" name="mavenDemo" />
+    </root>
+  </artifact>
+</component>
